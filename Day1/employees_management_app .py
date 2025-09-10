@@ -43,3 +43,4 @@ print('after delete dravid:', empolyees)#[hanu, mahesh, vaisnavi]
 position = 1
 empolyees.pop(position)# delete last 
 print('after delete Mahesh: ',empolyees)
+

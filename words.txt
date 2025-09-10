@@ -1,0 +1,2 @@
+List: ['apt', 'not', 'box', 'shoot', 'moon']
+Tuple: ('apt', 'not', 'box', 'shoot', 'moon')
